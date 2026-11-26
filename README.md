@@ -1,4 +1,4 @@
-Simple Mac OS app to learn Pinyin - Called Pinyin Path
+Simple  Mac OS app to learn Pinyin - Called Pinyin Path
 
 LightMode preview
 <img width="1227" height="812" alt="Light Mode" src="https://github.com/user-attachments/assets/665ca2bb-66d4-47a6-bbe1-e75ddc9b1778" />
